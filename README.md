@@ -1,5 +1,6 @@
 # mink-go
-The Golang Full-Stack Framework. Mink-Go helps you build a microservice system in a minute. Mink-Go more like full stack template generator which auto-generate boring code stuff and leave the important part of the system to you. 
+The Golang Full-Stack Framework. Mink-Go helps you build a microservice system in a minute. 
+Mink-Go more like a full stack template generator which auto-generate boring code stuff and leave the important part of the system to you. 
 
 Goal:
 - Manage full stack web application by config file
